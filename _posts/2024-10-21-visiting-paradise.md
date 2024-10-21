@@ -1,5 +1,5 @@
 ---
-title: Purity of Heart: Unlocking the Fullness of Heaven
+title: Purity of Heart - Unlocking the Fullness of Heaven
 description: Neville Johnson shares the significance of having a pure heart, explaining that only those with spiritual purity will be able to see God the Father in heaven.
 date: 2014-10-21 12:30:00 +0530
 categories: [VistingHeaven, CommunionOfSaints]
