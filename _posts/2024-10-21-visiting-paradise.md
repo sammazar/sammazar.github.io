@@ -1,18 +1,19 @@
 ---
 title: Purity of Heart - Unlocking the Fullness of Heaven
 description: Bro. Neville Johnson shares the significance of having a pure heart
-date: 2014-10-21 12:30:00 +0530
+date: 2024-10-21 12:30:00 +0530
 categories: [VistingHeaven, CommunionOfSaints]
 tags: [paradise, heaven, seeing, purity, holiness]
 author: Bro.NevilleJohnson
 ---
 
-### Summary:
+### Summary
+
 *In this Article, Bro. Neville Johnson shares an insightful interpretation of the biblical verse "Blessed are the pure in heart, for they shall see God" (Matthew 5:8). He explains that while many people make it to heaven, not all of them see Father God directly. The purity of one’s heart, he says, determines the depth of their experience in heaven. Some souls may be content in paradise, happy to be there, but they might never reach the fullness of what God has for them because their hearts weren’t fully purified.*
 
 *Bro. Neville draws on his personal experiences, including conversations with people in heaven, to illustrate this point. He recounts meeting individuals who see the glory of the throne from a distance or are visited by Jesus but have not yet seen the Father. These souls are joyful, yet they carry a subtle sense of missed destiny because they haven't seen God face-to-face.*
 
-### Lets read about His experience in his own words,
+### Lets read about His experience in his own words
 
 "Blessed are the pure in heart, for they shall see God.
 
