@@ -7,7 +7,7 @@ categories: [Current Events, Moon Missions, Artemis Program]
 tags: [MoonLanding, NASA, Artemis, LunarExploration]
 pin: true
 image:
-  path: https://www.nasa.gov/wp-content/uploads/2025/03/54359866846-dc14b1ff34-o.jpg
+  url: https://www.nasa.gov/wp-content/uploads/2025/03/54359866846-dc14b1ff34-o.jpg
   alt: Firefly Aerospace's Blue Ghost Mission 1 successfully landed at 3:34 a.m. EST on March 2, 2025, near Mons Latreille in the Mare Crisium basin on the Moon's northeastern near side.
 ---
 
