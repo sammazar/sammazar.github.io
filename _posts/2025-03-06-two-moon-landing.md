@@ -1,17 +1,17 @@
 ---
-title: A Giant Leap for Commercial Space: Two Historic Moon Landings in a Week
-description: Firefly Aerospace and Intuitive Machines Make History
+title: "A Giant Leap for Commercial Space: Two Historic Moon Landings in a Week"
+description: "Firefly Aerospace and Intuitive Machines Make History"
 author: Sam Mazzaroth
 date: 2025-03-06 10:00:00 +0000
 categories: [Current Events, Moon Missions, Artemis Program]
 tags: [MoonLanding, NASA, Artemis, LunarExploration]
-pin: true
 image:
-  url: https://www.nasa.gov/wp-content/uploads/2025/03/54359866846-dc14b1ff34-o.jpg
-  alt: Firefly Aerospace's Blue Ghost Mission 1 successfully landed at 3:34 a.m. EST on March 2, 2025, near Mons Latreille in the Mare Crisium basin on the Moon's northeastern near side.
+  path: https://your-image-hosting.com/images/moon-landing.jpg  # External image link
+  alt: "Moon landing by Firefly Aerospace"
+permalink: /blog/moon-landings-2025/
+layout: post
 ---
 
-**Title: A Giant Leap for Commercial Space: Two Historic Moon Landings in a Week**  
 
 *This week marked a significant milestone in commercial space exploration, with two private companies achieving unprecedented lunar landings. Firefly Aerospace and Intuitive Machines, both based in the United States, successfully advanced humanity’s quest to unlock the mysteries of the Moon.*  
 
