@@ -1,5 +1,5 @@
 ---
-title: A Giant Leap for Commercial Space: Two Historic Moon Landings in a Week
+title: A Giant Leap for Commercial Space - Two Historic Moon Landings in a Week
 description: Firefly Aerospace and Intuitive Machines Make History
 author: Sam Mazzaroth
 date: 2025-03-06 10:00:00 +0000
