@@ -1,13 +1,13 @@
 ---
-title: "A Giant Leap for Commercial Space: Two Historic Moon Landings in a Week"
-description: "Firefly Aerospace and Intuitive Machines Make History"
+title: A Giant Leap for Commercial Space: Two Historic Moon Landings in a Week
+description: Firefly Aerospace and Intuitive Machines Make History
 author: Sam Mazzaroth
 date: 2025-03-06 10:00:00 +0000
-categories: [Current Events, Moon Missions, Artemis Program]
-tags: [MoonLanding, NASA, Artemis, LunarExploration]
+categories: [CurrentEvents,MoonMissions,ArtemisProgram]
+tags: [moonlanding,nasa,artemis]
 image:
   path: https://github.com/user-attachments/assets/170753a0-a833-4c6f-984b-34c0089737b1  # External image link
-  alt: "Moon landing by Firefly Aerospace"
+  alt: Moon landing by Firefly Aerospace
 ---
 
 
