@@ -40,6 +40,14 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
+      - name: Debug Environment
+        run: |
+          echo "Ruby Version: $(ruby -v)"
+          echo "Jekyll Version: $(bundle exec jekyll -v)"
+          echo "Ruby Gems:"
+          bundle exec gem list
+
+
       - name: Clean up old dependencies
         run: rm -rf vendor/bundle .bundle _site Gemfile.lock && bundle install
 
