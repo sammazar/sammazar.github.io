@@ -10,6 +10,7 @@ image:
   alt: Falcon 9 Carrying SPHEREx Observatory and PUNCH Satellites Image Credit - Spacex
 ---
 
+
 On March 11, 2025, at 11:10 p.m. EST (0310 GMT on March 12), NASA successfully launched the SPHEREx observatory and the PUNCH mission aboard a SpaceX Falcon 9 rocket from Vandenberg Space Force Base in California.
 
 ### Launch Vehicle and Preparations
