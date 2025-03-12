@@ -2,7 +2,7 @@
 title: NASA Successfully Launches SPHEREx Observatory and PUNCH Satellites
 description: Advancing Our Understanding of the Universe and Solar Dynamics
 toc: true
-date: 2025-03-12 19:00:00 +0530
+date: 2025-03-12 20:00:00 +0530
 categories: [Science & Technology, Space Exploration, Astronomy, Astrophysics, Solar Physics]
 tags: [NASA, SPHEREx, PUNCH, SpaceX Falcon 9, James Webb Space Telescope, Cosmic Inflation, Solar Wind, Space Exploration, Astrophysics, Heliophysics, Infrared Astronomy, All-Sky Survey, Solar Corona, Universe Mapping, Big Bang, Interstellar Water]
 image:
