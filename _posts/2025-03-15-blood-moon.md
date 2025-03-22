@@ -6,8 +6,8 @@ date: 2025-03-15 20:00:00 +0530
 categories: [Astronomy,Space Events,Science & Nature,Stargazing]
 tags: [Blood Moon 2025, Lunar Eclipse, Astronomy, Stargazing, Space, Science, Moon, Eclipse, Skywatching, Celestial Events]
 image:
-  path: images-assets.nasa.gov/image/GRC-2025-C-01611/GRC-2025-C-01611~orig.jpg  # External image link
-  alt: Venus with Crescent Moon Image Credit - NASA
+  path: https://images-assets.nasa.gov/image/GRC-2025-C-01611/GRC-2025-C-01611~orig.jpg  # External image link
+  alt: Blood Moon Image Credit - NASA
 
 ---
 
