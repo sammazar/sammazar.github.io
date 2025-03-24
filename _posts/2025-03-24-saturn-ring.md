@@ -1,5 +1,5 @@
 ---
-title: Saturn's Ring Plane Crossing: Unlocking New Insights into Planetary Dynamics
+title: Saturn's Ring Plane Crossing - Unlocking New Insights into Planetary Dynamics
 description: Exploring the Science, Discoveries, and Upcoming Opportunities of Saturn's Rare Ring Plane Alignments
 toc: true
 date: 2025-03-24 10:30:00 +0530
@@ -28,7 +28,7 @@ During a ring plane crossing, the reduction in the rings' apparent brightness al
 
 ## Recent and Upcoming Crossings
 
-The most recent ring plane crossing occurred in 2009, coinciding with Saturn's equinox. Observations during this crossing provided unparalleled insights into the intricate interactions between the planet's rings and its magnetosphere. Cassini's observations during this period revealed transient phenomena such as spokes and ring waves, helping refine models of ring dynamics. The next ring plane crossing is expected to occur in this month (March 2025), offering a renewed opportunity for both ground-based and space-based telescopes to capture high-resolution data.
+The most recent ring plane crossing occurred in 2009, coinciding with Saturn's equinox. Observations during this crossing provided unparalleled insights into the intricate interactions between the planet's rings and its magnetosphere. Cassini's observations during this period revealed transient phenomena such as ring waves, helping refine models of ring dynamics. The next ring plane crossing is expected to occur in this month (March 2025), offering a renewed opportunity for both ground-based and space-based telescopes to capture high-resolution data.
 
 ## Scientific Opportunities and Insights
 
