@@ -1,5 +1,5 @@
 ---
-title: a Day on Venus is Stranger Than Fiction
+title: Stranger Than Fiction
 description: Exploring the leading theories from giant impacts to atmospheric tides behind Venus unique planetary dynamics
 toc: true
 date: 2025-04-08 12:20:00 +0530
