@@ -22,8 +22,6 @@ Venus is always covered in thick clouds—like a permanent fog hiding everything
 
 In the **1960s**, they used **radar** from Earth to bounce signals off Venus and noticed something unusual. But it wasn’t until NASA’s **Magellan spacecraft** in the 1990s that we got clear radar maps of Venus’s surface, confirming just how slowly and strangely it spins.
 
-![Colorized global radar map of Venus surface from Magellan data](https://photojournal.jpl.nasa.gov/catalog/PIA00271)
-
 ## **Why Is Venus So Different?**
 
 Scientists have two big ideas:
