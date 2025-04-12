@@ -7,7 +7,7 @@ categories: [Planetary Science, Mars Exploration, Astrobiology]
 tags: [Mars, Water on Mars, Martian Ice, Subsurface Water, Mars Seismic Data, Mars Exploration, Astrobiology, Planetary Science, NASA InSight, Mars Climate]
 image:
   path: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2005/07/perspective_view_of_crater_with_water_ice_-_looking_east/10192616-2-eng-GB/Perspective_view_of_crater_with_water_ice_-_looking_east_pillars.jpg
-  alt: Water ice in crater at Martian north pole. Image Credit: ESA
+  alt: Water ice in crater at Martian north pole. Image Credit - ESA
 ---
 
 Imagine a planet where rivers once meandered through valleys, lakes shimmered under a pink sky, and oceans possibly spanned vast regions. Now, envision that same planet as a cold, arid desert. Welcome to Mars—a world that has undergone a dramatic transformation over billions of years. Yet, beneath its rusty surface, Mars holds secrets that could redefine our understanding of planetary evolution and the potential for life beyond Earth.
